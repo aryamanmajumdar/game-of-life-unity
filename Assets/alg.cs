@@ -2,6 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/*------------------------------------------------------
+ * Aryaman Majumdar
+ * 2021
+ * Conway's Game of Life coded in C#
+ ----------------------------------------------------*/
+
 public class alg : MonoBehaviour
 {
     public GameObject cell;
